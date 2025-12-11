@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Omni-Chat & Transcriber",
+  "description": "A dual-mode AI application featuring a powerful chatbot using gemini-3-pro-preview and a specialized media transcriber for Hinglish/English audio and video files.",
+  "requestFramePermissions": []
+}
